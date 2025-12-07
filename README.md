@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # CSI_Hackathon
-=======
+
 # FANUC Industrial Robot Event Triage System
 
 A comprehensive system for analyzing and triaging **FANUC industrial robot** events using Streamlit UI, FastAPI backend, and Azure AI Foundry integration. Designed specifically for FANUC robot maintenance and diagnostics.
@@ -168,8 +168,4 @@ CSI_Hackathon/
 - Implement proper error handling and logging
 - Add unit tests and integration tests
 
-## License
 
-MIT License
-
->>>>>>> 5f187ce (Initial push)
